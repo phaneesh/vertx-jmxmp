@@ -19,9 +19,9 @@ This makes it possible to use JMX over JMXMP.
 * Use the following maven dependency:
 ```
 <dependency>
-    <groupId>io.vertx</groupId>
-    <artifactId>vertx-web</artifactId>
-    <version>3.8.4</version>
+    <groupId>io.raven.vertx</groupId>
+    <artifactId>vertx-jmxmp</artifactId>
+    <version>3.9.1</version>
 </dependency>
 ```
 
